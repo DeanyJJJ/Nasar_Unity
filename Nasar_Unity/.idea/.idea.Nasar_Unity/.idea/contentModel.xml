@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mityu\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mityu\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Nasar_Unity.1233204080.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mityu\Desktop\Unity projects\Nasar_Unity" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Practice_10" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Practice_10.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Practice_2" t="Include">
+          <e p="Antigua Guatemala Santa Catalina Arch 3D Model" t="Include">
+            <e p="Sample Scene Utilities" t="Include">
+              <e p="CameraSwitcher.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Practice_3" t="Include">
+          <e p="Practice3.cs" t="Include" />
+        </e>
+        <e p="Practice_4" t="Include">
+          <e p="Practice4.cs" t="Include" />
+        </e>
+        <e p="Practice_5" t="Include">
+          <e p="TerrainSampleAssets" t="Include">
+            <e p="ThirdPartyNotices.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Practice_6" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Cube1.cs" t="Include" />
+            <e p="Cube2.cs" t="Include" />
+            <e p="Cube3.cs" t="Include" />
+            <e p="Cube4.cs" t="Include" />
+            <e p="Cube5.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Practice_7" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Practice_7_1.cs" t="Include" />
+            <e p="Practice_7_2.cs" t="Include" />
+            <e p="Practice_7_3.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Practice_8" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Practice_8.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Practice_9" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Scripts_9.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Nasar_Unity.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
